@@ -48,7 +48,6 @@ theme:
     - git-committers:
       repository: Chocolateater/FD-Class
       branch: master
-      token: !ENV [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]
   palette:
     primary: white
     scheme: 
