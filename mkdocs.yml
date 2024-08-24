@@ -1,10 +1,17 @@
-site_name: My Docs
+site_name: Backrooms FD-Class
 repo_url: https://github.com/Chocolateater/FD-Class
 edit_uri: 'https://github.com/Chocolateater/FD-Class/edit/master/docs/'
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/landmark
   features:
     - content.action.edit
+    - header.autohide
+    - search.suggest
+    - search.highlight
+  plugins:
+    - search
   palette:
     primary: white
     scheme: 
@@ -18,4 +25,6 @@ theme:
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
+extra:
+  homepage: https://chocolateater.github.io/FD-Class/
     
