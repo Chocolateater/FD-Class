@@ -21,7 +21,7 @@ nav:
     - Entity: 'Entity_index.md'
   - Objects:
     - Object: 'Object_index.md'
-    - 二代驱笑剂: '二代驱笑剂.md'
+    # - 二代驱笑剂: '二代驱笑剂.md'
     
 theme:
   name: material
