@@ -12,7 +12,9 @@ nav:
     #- Level 11-20:
     #- Level 21-30:
     - Level 31-40:
-      - Level 32: 'Level_FD-32.md'
+      - Level 32: 
+        - Level 32 Main: 'Level_FD-32.md'
+        - Level 32.5: 'Level_FD-32.5.md'
     
 theme:
   name: material
