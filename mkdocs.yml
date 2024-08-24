@@ -41,6 +41,13 @@ theme:
   plugins:
     - search
     - optimize
+    - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      enable_creation_date: true
+    - git-committers:
+      repository: Chocolateater/FD-Class
+      branch: main
   palette:
     primary: white
     scheme: 
