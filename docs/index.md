@@ -16,4 +16,5 @@ comments: true
 
 目前主要创作者有 @[__FDOI__](https://www.luogu.com.cn/user/1015756) 以及 @[sjh0626](https://www.luogu.com.cn/user/1129497) 也要感谢 @[_AC_IS_GOD_QP_](https://www.luogu.com.cn/user/744442) , 他给了我建立这个小站的想法。
 
-
+欢迎各位加入[团队](https://www.luogu.com.cn/team/85670
+) , 共同维护这个小站
