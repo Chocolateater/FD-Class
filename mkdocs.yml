@@ -1,6 +1,13 @@
 site_name: Backrooms FD-Class
 repo_url: https://github.com/Chocolateater/FD-Class
 edit_uri: 'https://github.com/Chocolateater/FD-Class/edit/master/docs/'
+nav:
+  - Home: 'index.md'
+  - Levels: 
+    - Level: 'Level_index.md'
+    - Level 0-10: 
+      - Level 0: 'Level_FD-0.md'
+    
 theme:
   name: material
   language: zh
@@ -8,6 +15,8 @@ theme:
   icon:
     logo: fontawesome/solid/person-military-rifle
   features:
+    - navigation.instant
+    - navigation.tabs
     - content.action.edit
     - header.autohide
     - search.suggest
