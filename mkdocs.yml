@@ -2,7 +2,9 @@ site_name: Backrooms FD-Class
 repo_url: https://github.com/Chocolateater/FD-Class
 edit_uri: 'https://github.com/Chocolateater/FD-Class/edit/master/docs/'
 nav:
-  - Home: 'index.md'
+  - Home: 
+    - Home: 'index.md'
+    - Rules: 'Rules.md'
   - Levels: 
     - Level: 'Level_index.md'
     - Level 0-10: 
