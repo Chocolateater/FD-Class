@@ -4,6 +4,7 @@ edit_uri: 'https://github.com/Chocolateater/FD-Class/edit/master/docs/'
 theme:
   name: material
   language: zh
+  custom_dir : overrides
   icon:
     logo: fontawesome/solid/person-military-rifle
   features:
