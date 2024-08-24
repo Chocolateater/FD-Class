@@ -1,6 +1,10 @@
 site_name: My Docs
+repo_url: https://github.com/Chocolateater/FD-Class
+repo_name: Chocolateater/FD-Class
 theme:
   name: material
+  features:
+    - content.action.edit
   palette:
     primary: white
     scheme: 
