@@ -3,8 +3,9 @@ repo_url: https://github.com/Chocolateater/FD-Class
 edit_uri: 'https://github.com/Chocolateater/FD-Class/edit/master/docs/'
 theme:
   name: material
+  language: zh
   icon:
-    logo: fontawesome/solid/landmark
+    logo: fontawesome/solid/person-military-rifle
   features:
     - content.action.edit
     - header.autohide
