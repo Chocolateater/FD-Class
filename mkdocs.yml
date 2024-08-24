@@ -1,6 +1,7 @@
 site_name: My Docs
 repo_url: https://github.com/Chocolateater/FD-Class
 repo_name: Chocolateater/FD-Class
+edit_uri: edit/main/docs/
 theme:
   name: material
   features:
