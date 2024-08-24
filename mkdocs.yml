@@ -47,7 +47,7 @@ theme:
       enable_creation_date: true
     - git-committers:
       repository: Chocolateater/FD-Class
-      branch: master
+      enabled: !ENV [CI]
   palette:
     primary: white
     scheme: 
