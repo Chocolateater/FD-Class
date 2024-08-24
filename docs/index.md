@@ -18,3 +18,5 @@ comments: true
 
 欢迎各位加入[团队](https://www.luogu.com.cn/team/85670
 ) , 共同维护这个小站
+
+觉得还不错的话就给个星星吧 球球啦。
