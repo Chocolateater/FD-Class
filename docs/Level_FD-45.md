@@ -1,5 +1,5 @@
 ---
-comment: true
+comments: true
 ---
 
 # Level FD-45 “黑白渲染之地”

@@ -1,6 +1,6 @@
 ---
-
-## comments: true
+comments: true
+---
 
 # Level FD-32 “寂寞森林”
 
