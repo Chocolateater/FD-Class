@@ -5,8 +5,8 @@ nav:
   - Home: 
     - Getting Started: 'index.md'
     - Rules: 'Rules.md'
-    - 如何参与: '如何参与.md'
-    - 格式手册: '格式手册.md'
+    - 如何参与: 'Joinin.md'
+    - 格式手册: 'Stylemanual.md'
   - Levels: 
     - Level: 'Level_index.md'
     - Level 0-10: 
@@ -63,6 +63,12 @@ theme:
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 extra:
   homepage: https://chocolateater.github.io/FD-Class/
     
