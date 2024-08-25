@@ -1,6 +1,6 @@
 site_name: Backrooms FD-Class
 repo_url: https://github.com/Chocolateater/FD-Class
-edit_uri: 'https://chocolateater.github.io/FD-Class/before_edit/?edit_link='
+edit_uri: 'https://chocolateater.github.io/FD-Class/edit/?ref='
 nav:
   - Home: 
     - Getting Started: 'index.md'

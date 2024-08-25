@@ -15,5 +15,5 @@ comments: true
 		}
 		return dft;
 	}
-	document.getElementById("btn-startedit").href = "https://github.com/chocolateater/FD-Class/edit/master/docs" + getQueryVariable("edit_link", "");
+	document.getElementById("btn-startedit").href = "https://github.com/chocolateater/FD-Class/edit/master/docs" + getQueryVariable("ref", "");
 </script>
