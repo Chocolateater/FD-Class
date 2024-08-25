@@ -87,3 +87,45 @@ comments: true
 如果一切顺利，你会看到如下界面：
 
 ![](https://image.zhaohonghao-qwq.com/file/05f24561b75a230b91697.png)
+
+等待加载完毕后，如果您看到了如下界面，那么说明 Recptach 没有正常加载，请检查您的网络设置并等待一段时间后重试或是使用 VPN。
+
+![](https://image.zhaohonghao-qwq.com/file/e1142e4a1070eff453371.png)
+
+此时点击 Continue，您将会重新进入第一步，填写您的邮箱地址。
+
+![](https://image.zhaohonghao-qwq.com/file/fa0fb3d57acbe61bb426c.png)
+
+*↑ Recaptcha 没有正确加载 请重新填写表单*
+
+如果您看到了如下界面（或者是其他验证码页面），那么说明您成功了！
+
+![](https://image.zhaohonghao-qwq.com/file/91110da31fae3345715af.png)
+
+请按照指示填写验证码。
+
+![](https://image.zhaohonghao-qwq.com/file/5f80b22dc365dc54f56f2.png)
+
+接下来 Github 会自动跳转到该页面并向您的邮箱发送验证码。
+
+![](https://image.zhaohonghao-qwq.com/file/bb31ce7655deea519c117.png)
+
+打开您的邮箱/此前打开的临时邮箱界面，接收验证码并填写。
+
+![](https://image.zhaohonghao-qwq.com/file/d2faa2d3dea3fd2d1be19.png)
+
+返回并填写。
+
+![](https://image.zhaohonghao-qwq.com/file/965737f41143250f54788.png)
+
+完成之后 Github 会自动跳转至登录界面，填写您的用户名和密码并点击下方的 sign in 按钮。
+
+![](https://image.zhaohonghao-qwq.com/file/6bc5aa625a09b54fcb030.png)
+
+跳转至问卷页面，直接点击下方的 Skip 跳过。
+
+![](https://image.zhaohonghao-qwq.com/file/f25feeedb19271416d65f.png)
+
+如果出现了如下页面，那么说明您成功了！
+
+![](https://image.zhaohonghao-qwq.com/file/16dc89b0bcd366d80b992.png)
