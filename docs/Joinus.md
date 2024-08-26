@@ -29,3 +29,5 @@
 请在任意一个页面下方评论区留言。
 
 没有 Github 账号？你可以考虑阅读 [如何参与](https://chocolateater.github.io/FD-Class/Joinin/#github) 中的 注册 Github 账号 部分。
+
+当然也可以在 [洛谷](https://www.luogu.com.cn/) 上联系 [__FDOI__](https://www.luogu.com.cn/user/1427985) 或 [__Q_w_Q__](https://www.luogu.com.cn/user/933380)。
