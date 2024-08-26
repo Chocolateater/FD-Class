@@ -179,3 +179,51 @@ comments: true
 ![](https://image.zhaohonghao-qwq.com/file/83ada954575b8906c6d9a.png)
 
 等待审核，审核通过后，您就可以在 FD-Class Wiki 页面看到您的编辑内容了。
+
+最后，为了避免浪费储存空间，请记得删除仓库。
+
+点击右上角头像。
+
+![](https://image.zhaohonghao-qwq.com/file/3ab76af0334f8db7a993f.png)
+
+选择 Your repositories。
+
+![](https://image.zhaohonghao-qwq.com/file/a46afe88e0f4b20f08bd5.png)
+
+找到刚才 Fork 的 FD-Class 仓库。
+
+（这里以 OI-wiki 为例）
+
+![](https://image.zhaohonghao-qwq.com/file/2b1724031b128541979f9.png)
+
+进入如下页面。点击 Settings。
+
+![](https://image.zhaohonghao-qwq.com/file/5121b9d70a5a984a63942.png)
+
+进入如下页面。
+
+![](https://image.zhaohonghao-qwq.com/file/bb7175863dccd59fd15cf.png)
+
+向下滑动到页面底部，找到 Delete this repository 按钮。
+
+![](https://image.zhaohonghao-qwq.com/file/18fe8d5c9e87454964c61.png)
+
+弹出弹窗，点击 I want to delete this repository。
+
+![](https://image.zhaohonghao-qwq.com/file/812dd7d01246a8adaf81c.png)
+
+再次确认，点击 I have read and understand these effects。
+
+![](https://image.zhaohonghao-qwq.com/file/9860b730f94fb9f26a735.png)
+
+将绿框内的内容复制到红框内
+
+![](https://image.zhaohonghao-qwq.com/file/c3d3df03a77d6d3900333.png)
+
+点击 Delele the repository。
+
+![](https://image.zhaohonghao-qwq.com/file/cc55fdf89184bc8e86151.png)
+
+验证身份，进入 Sudo 模式（和登录页面差不多，不放图了），输入密码，点击确认。
+
+仓库被删除了。
