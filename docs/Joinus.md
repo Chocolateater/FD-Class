@@ -15,9 +15,11 @@ comments: true
 
 ## 社区……
 
-目前 FD-Class 是基于 Github Pages 搭建的静态网页，不具有实现社区的硬性条件，因此社区功能暂时还没有加入。
+目前 FD-Class Wiki 是基于 Github Pages 搭建的静态网页，不具有实现社区的硬性条件，因此社区功能暂时还没有加入。
 
-不过，我们正在考虑搭建 基于 Discourse 和 Tailchat Nightly 的社区，欢迎您提供建议和帮助。
+不过，我们正在考虑搭建 基于 Discourse 的社区，欢迎您提供建议和帮助。
+
+欢迎加入我们基于 TailChat 的群组 [Link](https://nightly.paw.msgbyte.com/invite/0TES4bGw)
 
 当然，也欢迎您加入我们的 [洛谷团队1](https://www.luogu.com.cn/team/85670) 和 [洛谷团队2](https://www.luogu.com.cn/team/84560)。
 
