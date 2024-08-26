@@ -129,3 +129,16 @@ comments: true
 如果出现了如下页面，那么说明您成功了！
 
 ![](https://image.zhaohonghao-qwq.com/file/16dc89b0bcd366d80b992.png)
+
+## 开始编辑
+
+让我们以 [Oi-wiki](https://oi-wiki.org/) 为例，介绍如何编辑 Wiki。
+
+!!! note
+    FD-Class Wiki 采用了于 Oi-wiki 相同的技术架构 [Material For MkDocs](https://squidfunk.github.io/mkdocs-material/)，因此您可以参考 Oi-wiki 的 Wiki 编辑指南。
+
+首先，打开任意一个你想编辑的 Wiki 页面。
+
+![](https://image.zhaohonghao-qwq.com/file/064e492e3d2d21bf87184.png)
+
+点击右上角的编辑按钮，进入编辑页面。
