@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 加入我们
 
 !!! note ""
