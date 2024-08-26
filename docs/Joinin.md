@@ -179,3 +179,48 @@ comments: true
 ![](https://image.zhaohonghao-qwq.com/file/83ada954575b8906c6d9a.png)
 
 等待审核，审核通过后，您就可以在 FD-Class Wiki 页面看到您的编辑内容了。
+
+## 创建页面
+
+进入刚刚 Fork 的仓库。进入 Docs 文件夹。
+
+![](https://image.zhaohonghao-qwq.com/file/e7d68371b1c14f8825bdc.png)
+
+点击右上角的 Add file 按钮。
+
+![](https://image.zhaohonghao-qwq.com/file/d32e019ab2f297c829473.png)
+
+填写蓝框里的标题，注意需要在末尾加上 ``.md`` 后缀。填写绿框里的内容，请使用 Markdown 语法。最后点击右上角 Commit Changes。
+
+![](https://image.zhaohonghao-qwq.com/file/0a852eb3490299e55b9cd.png)
+
+直接点击 Commit Changes 即可。
+
+![](https://image.zhaohonghao-qwq.com/file/7d615806bb5cbf2bb0903.png)
+
+然后就会进入 Pull Request 页面。操作和前文提到的一样。
+
+但是切记不要直接提交 Pull Request。请保持该页面打开状态。
+
+重新开一个页面进入仓库。
+
+这次我们编辑 Mkdocs.yml 文档。
+
+![](https://image.zhaohonghao-qwq.com/file/bc42e7e15c9954fef30ed.png)
+
+点击 编辑（红框突出的按钮）进入编辑页面。
+
+![](https://image.zhaohonghao-qwq.com/file/273d54cf85ccd1a58db68.png)
+
+像这样把你刚刚创建的文档放进 Nav 目录当中。
+
+![](https://image.zhaohonghao-qwq.com/file/05441659fb6239acf1efd.png)
+
+???+ note
+    请**严格**遵守 YAML 语法。缩进代表层级关系，请严格遵守。即使是空格也不可以去掉。
+
+    Level 下存放的是层级目录。
+    Entity 下存放的是实体目录。
+    Objects 下存放的是特殊物品目录。
+
+最后再回到刚刚打开的 Pull Request 页面。后面的操作与 “编辑页面” 完全一致，就不展开说了。
