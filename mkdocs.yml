@@ -9,30 +9,34 @@ nav:
     - 格式手册: 'Format.md'
     - 加入我们: 'Joinus.md'
   - Levels: 
-    - Level: 'Level_index.md'
+    - Level: 'Levels/Level_index.md'
     - Level 0-10: 
       - Level 0: 
-        - Level 0 Main: 'Level_FD-0.md'
-        - Level 0.1: 'Level_FD-0.1.md'
-      - Level 5: 'Level_FD-5.md'
+        - Level 0 Main: 'Levels/Level_FD-0.md'
+        - Level 0.1: 'Levels/Level_FD-0.1.md'
+      - Level 5: 'Levels/Level_FD-5.md'
     - Level 11-20:
-      - Level 11: 'Level_FD-11.md'
+      - Level 11: 'Levels/Level_FD-11.md'
     #- Level 21-30:
     - Level 31-40:
       - Level 32: 
-        - Level 32 Main: 'Level_FD-32.md'
-        - Level 32.5: 'Level_FD-32.5.md'
+        - Level 32 Main: 'Levels/Level_FD-32.md'
+        - Level 32.5: 'Levels/Level_FD-32.5.md'
     - Level 41-50:
-      - Level 45: 'Level_FD-45.md'
+      - Level 45: 'Levels/Level_FD-45.md'
     - Other Levels: 
-      - Level 218: 'Level_FD-218.md'
-      - Level 2001: 'Level_FD-2001.md'
-      - Level Head To Head: 'Head_To_Head.md'
+      - Level 218: 'Levels/Level_FD-218.md'
+      - Level 418: 'Levels/Level_FD-418.md'
+      - Level 2001: 'Levels/Level_FD-2001.md'
+      - Level Head To Head: 'Levels/Head_To_Head.md'
   - Entites:
-    - Entity: 'Entity_index.md'
+    - Entity: 'Entities/Entity_index.md'
   - Objects:
-    - Object: 'Object_index.md'
+    - Object: 'Objects/Object_index.md'
     # - 二代驱笑剂: '二代驱笑剂.md'
+  - Organizations:
+    - Organization: 'Organizations/Organization_index.md'
+    - CCF: 'Organizations/CCF.md'
     
 theme:
   name: material
@@ -67,7 +71,17 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
 
 extra:
   homepage: https://chocolateater.github.io/FD-Class/
+
+extra_javascript:
+  # - javascripts/mathjax.js
+  # - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  # 上面 MathJax 下面 KaTeX
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
     
