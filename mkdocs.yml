@@ -44,9 +44,10 @@ theme:
     - navigation.instant
     - navigation.tabs
     - content.action.edit
-    - header.autohide
+    # - header.autohide
     - search.suggest
     - search.highlight
+    - announce.dismiss
   plugins:
     - search
     - optimize
