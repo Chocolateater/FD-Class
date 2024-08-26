@@ -35,21 +35,18 @@ comments: true
     ![](https://image.zhaohonghao-qwq.com/file/cffe611758fabc419e0d1.png)
 
     4.临时邮箱**不会**保存您的邮件，请不要使用临时邮箱接受重要邮件。
-
 ### 注册 GitHub 账号
 
 *如果您已经拥有了 GithHub 账号，请直接登录并跳过本步即可。*
 
 ???+ note "关于 Github"
     [GitHub](https://github.com/) 是一个基于 web 的版本控制和协作平台，主要用于存储、管理和分享开源代码和项目。它提供了基于 git 的版本控制功能，使得多个开发者可以在同一个代码库中协同开发，并且能够轻松地跟踪代码的变化。截至目前，GitHub拥有 1 亿以上的开发人员，400 万以上组织机构和 3.3 亿以上资料库。
-
 注册 GitHub 账号非常简单，只需要填写一些简单的个人信息即可。
 
 首先，请访问 [GitHub 注册页面](https://github.com/signup)。
 
 !!! warning "如果您无法访问 Github 注册页面"
     Github 在国内访问速度并不稳定，其注册页面使用的 Recaptcha (Google 提供的验证码服务) 也加剧了国内访问的困境。因此，如果您无法访问 Github 请等待片刻后重试，并尝试更换您的网络，或是使用 V*N。
-
 加载完成后，请在框内填写您的邮箱（如果您没有临时邮箱，请返回并查看 "临时邮箱"）
 
 ![](https://image.zhaohonghao-qwq.com/file/2cebe0fb5bb06933f636b.png)
@@ -66,7 +63,6 @@ comments: true
     同时，一些常见的，容易被猜到的密码，如 "password"、"123456"、"12345678" 等，都不可以作为密码。
 
     ![](https://image.zhaohonghao-qwq.com/file/38011c6f1c0cdeacb898d.png)
-
 接着，请填写你的用户名，点击 continue。
 
 ![](https://image.zhaohonghao-qwq.com/file/8de32aeb23eb58724d328.png)
@@ -79,7 +75,6 @@ comments: true
     下方图片中的用户名就是重复的，请不要使用该用户名。
 
     ![](https://image.zhaohonghao-qwq.com/file/8eb19a361104be3752dc1.png)
-
 最后，选择不接受邮件，点击 continue 进入下一步。
 
 ![](https://image.zhaohonghao-qwq.com/file/c34945a146d405299400c.png)
@@ -136,7 +131,6 @@ comments: true
 
 !!! note
     FD-Class Wiki 采用了于 Oi-wiki 相同的技术架构 [Material For MkDocs](https://squidfunk.github.io/mkdocs-material/)，因此您可以参考 Oi-wiki 的 Wiki 编辑指南。
-
 首先，打开任意一个你想编辑的 Wiki 页面。
 
 ![](https://image.zhaohonghao-qwq.com/file/064e492e3d2d21bf87184.png)
@@ -153,7 +147,6 @@ comments: true
 
 !!! note
     这里使用了 OI-wiki 的页面作为示例（因为我没法 Fork 自己的仓库），FD-Class 采用了和 OI-wiki 完全相同的技术框架（Material For MkDocs），因此不用担心页面操作不一致。
-
 单击屏幕中央的 Fork 按钮 复制仓库。
 
 ![](https://image.zhaohonghao-qwq.com/file/27ffbf8db6a4982d636d0.png)
@@ -222,5 +215,4 @@ comments: true
     Level 下存放的是层级目录。
     Entity 下存放的是实体目录。
     Objects 下存放的是特殊物品目录。
-
 最后再回到刚刚打开的 Pull Request 页面。后面的操作与 “编辑页面” 完全一致，就不展开说了。
