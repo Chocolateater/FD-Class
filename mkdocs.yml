@@ -45,6 +45,8 @@ theme:
   custom_dir : overrides
   icon:
     logo: fontawesome/solid/person-military-rifle
+  static_templates:
+    - 404.html
   features:
     - navigation.instant
     - navigation.tabs
@@ -64,9 +66,26 @@ theme:
       repository: Chocolateater/FD-Class
       enabled: !ENV [CI]
   palette:
-    primary: black
-    accent: indigo
-    scheme: slate
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
 
 markdown_extensions:
   - admonition
