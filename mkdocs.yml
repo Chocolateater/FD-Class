@@ -47,8 +47,6 @@ theme:
   custom_dir : overrides
   icon:
     logo: fontawesome/solid/person-military-rifle
-  static_templates:
-    - 404.html
   features:
     - navigation.instant
     - navigation.tabs
