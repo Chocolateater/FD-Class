@@ -19,4 +19,4 @@
 
     兼容性不良好的液体意味着你**通常**不可以与其他液体混合饮用，否则会产生不良的 Bug。这可能包括 [250 Badgateway](https://chocolateater.github.io/FD-Class/Entities/250_Badgateway/) 或者是 [114514 Censored](https://chocolateater.github.io/FD-Class/Entities/114514_Censored/) 等。 
 
-    但是一些特殊咖啡的兼容性可能并不良好。因此，FDOI 建议冒险者饮用咖啡前先花 200 元至 [CCF] 处咨询这种咖啡是否兼容性良好。
+    但是一些特殊咖啡的兼容性可能并不良好。因此，FDOI 建议冒险者饮用咖啡前先花 200 元至 [CCF](https://chocolateater.github.io/FD-Class/Organizations/CCF/) 处咨询这种咖啡是否兼容性良好。

@@ -34,6 +34,8 @@ nav:
     - Entity: 'Entities/Entity_index.md'
   - Objects:
     - Object: 'Objects/Object_index.md'
+    - Coffee: 'Objects/Coffee.md'
+    - Coffee_Milk: 'Objects/Coffee_Milk.md'
     # - 二代驱笑剂: '二代驱笑剂.md'
   - Organizations:
     - Organization: 'Organizations/Organization_index.md'
