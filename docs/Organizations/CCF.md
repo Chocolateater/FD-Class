@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Coffee Comfortable Federation
 
 中文名：咖啡友好联盟

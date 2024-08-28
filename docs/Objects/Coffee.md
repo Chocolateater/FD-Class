@@ -4,7 +4,7 @@
 
 ![](https://image.zhaohonghao-qwq.com/file/a2e4cf0dac87934c308ca.jpg)
 
-一杯由 M.E.G. 拍摄的典型的咖啡图片 ↑。
+一杯由 [M.E.G.] 拍摄的典型的咖啡图片 ↑。
 
 标准的咖啡可以抑制睡眠并让你不再口渴。你通常可以在 [Level 2](https://chocolateater.github.io/FD-Class/Level_FD-2/) 的超市/餐厅中找到这种液体。
 

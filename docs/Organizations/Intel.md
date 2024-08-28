@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # International Toothpaste Enterprise Limited
 
 Intel，后室内著名的牙膏厂，主要产品有牙膏、牙粉、牙刷、牙线、牙齿矫正器、牙齿美白器、牙齿保健品、牙齿修复剂、牙齿矫正护理产品等。
