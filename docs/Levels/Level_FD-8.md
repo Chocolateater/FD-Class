@@ -51,7 +51,7 @@ Level 8 的名字即来源于此。
 
     后果自负。
 
-![](https://image.zhaohonghao-qwq.com/file/3ca11aa0a5598bd5c6768.png)
+![](https://image.zhaohonghao-qwq.com/file/077bf57ed72db26123dc4.png)
 
 *FDOI 干员拍摄的“终端”房间内的 Macintosh IIci 运行画面*
 
