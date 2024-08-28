@@ -46,7 +46,7 @@ Level 8 的名字即来源于此。
 
 目前该方法并非百分白有效，事实上，有相当一部分人向 [FDOI](https://chocolateater.github.io/FD-Class/Organizations/FDOI/) 报告称，在他们试图打开 Terminal 程序时，Macintosh IIci 上运行的操作系统 System 7 似乎会崩溃。
 
-???+ warning
+???+ failure
     请不要输入不存在的层级编号或其他不适宜的命令。
 
     后果自负。
