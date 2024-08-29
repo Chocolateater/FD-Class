@@ -2,13 +2,13 @@ site_name: Backrooms FD-Class
 repo_url: https://github.com/Chocolateater/FD-Class
 edit_uri: 'https://chocolateater.github.io/FD-Class/edit/?ref='
 nav:
-  - Home: 
+  - 主页 Home: 
     - Getting Started: 'index.md'
     - Rules: 'Rules.md'
     - 如何参与: 'Joinin.md'
     - 格式手册: 'Format.md'
     - 加入我们: 'Joinus.md'
-  - Levels: 
+  - 层级 Levels: 
     - Level: 'Levels/Level_index.md'
     - Level 0-10: 
       - Level 0: 
@@ -31,17 +31,21 @@ nav:
       - Level 418: 'Levels/Level_FD-418.md'
       - Level 2001: 'Levels/Level_FD-2001.md'
       - Level Head To Head: 'Levels/Head_To_Head.md'
-  - Entites:
+  - 实体 Entites:
     - Entity: 'Entities/Entity_index.md'
-  - Objects:
+  - 物品 Objects:
     - Object: 'Objects/Object_index.md'
     - Coffee: 'Objects/Coffee.md'
     - Coffee_Milk: 'Objects/Coffee_Milk.md'
     # - 二代驱笑剂: '二代驱笑剂.md'
-  - Organizations:
+  - 组织 Organizations:
     - Organization: 'Organizations/Organization_index.md'
     - CCF: 'Organizations/CCF.md'
-    
+  - 现象 Phenomena:
+    - Phenomena: 'Phenomena/Phenomena_index.md'
+  - 更多 More…:
+    - More: 'More/More_index.md'
+    - 达尔文奖 Darwin: 'More/Darwin.md'
 theme:
   name: material
   language: zh
@@ -106,3 +110,5 @@ extra_javascript:
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
     
+extra_css:
+  - stylesheets/extra.css
