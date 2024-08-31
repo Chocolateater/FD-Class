@@ -33,7 +33,7 @@ nav:
       - Level Head To Head: 'Levels/Head_To_Head.md'
   - 实体 Entites:
     - Entity: 'Entities/Entity_index.md'
-      - Entity 1: 'Entities/Entity_1_迷失者.md'
+      - Entity 1: 'Entities/Entity_1_Loster.md'
   - 物品 Objects:
     - Object: 'Objects/Object_index.md'
     - Coffee: 'Objects/Coffee.md'
