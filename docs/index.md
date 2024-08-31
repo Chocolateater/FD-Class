@@ -21,4 +21,4 @@ comments: true
 
 觉得还不错的话就给个星星吧 球球啦。
 
-作者是[__Q_w_Q__](https://www.luogu.com.cn/user/933380)，[B站号](https://space.bilibili.com/3546729626470916?spm_id_from=333.1007.0.0)
+作者是[__Q_w_Q__](https://www.luogu.com.cn/user/933380) And 它的[B站号](https://space.bilibili.com/3546729626470916?spm_id_from=333.1007.0.0)
