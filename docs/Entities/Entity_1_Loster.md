@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 ---
 
 # Entity 1 "迷失者"
