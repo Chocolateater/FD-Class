@@ -46,8 +46,11 @@ Level 8 的名字即来源于此。
 
 与普通程序不同的是，该程序可以让你切入其他层级。
 
-命令格式为 ``goto Level [Number]`` Number 即为你想去的层级。
+命令格式为 
+- ``goto Level [Number]`` Number 即为你想去的层级。
 
+- ``goto Hidden [Level]`` Level 即为你想去的隐秘层级，如果Level为”Ending“，70%的概率来到”回归“，30%的概率来到”最终，也是永远“。
+  
 目前该方法并非百分白有效，事实上，有相当一部分人向 [FDOI](https://chocolateater.github.io/FD-Class/Organizations/FDOI/) 报告称，在他们试图打开 Terminal 程序时，Macintosh IIci 上运行的操作系统 System 7 似乎会崩溃。
 
 ???+ failure
